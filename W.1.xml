@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <Catalogue category="Technical">
+        <Book1>
+            <ISBN>number</ISBN>
+            <title>html</title>
+            <author>name</author>
+        </Book1>
+        <Book2>
+            <ISBN>number</ISBN>
+            <title>xml</title>
+            <author>name</author>
+        </Book2>
+    </Catalogue>
+
+    <Catalogue category="Cookery">
+        <Book1>
+            <ISBN>number</ISBN>
+            <title>cooking</title>
+            <author>name</author>
+        </Book1>
+        <Book2>
+            <ISBN>number</ISBN>
+            <title>cooking</title>
+            <author>name</author>
+        </Book2>
+
+    </Catalogue>
+
+</library>
